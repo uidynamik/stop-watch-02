@@ -14,7 +14,7 @@
   transition: all 0.5s;
 }
 
-.action button:hover {
+.actions button:hover {
   box-shadow: 2px 3px 3px rgba(27, 26, 26, 0.5);
   cursor: pointer;
 }
